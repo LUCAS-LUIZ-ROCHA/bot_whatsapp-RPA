@@ -1,21 +1,27 @@
-## Freelancer de RPA - Bot-Whatsapp
-# Este é um exemplo de uma demanda de um dos meus clientes para automatizar uma tarefa através de um bot integrado com o whatsapp.
+# Freelancer de RPA - Bot-Whatsapp
+## Este é um exemplo de uma demanda de um dos meus clientes para automatizar uma tarefa através de um bot integrado com o whatsapp.
 
-## Entendendo o problema.
-# Demanda do cliente:
+# Entendendo o problema.
+## Demanda do cliente:
+
 - Preciso automatizar mensagens para meus clientes e gostaria de saber valores, e gostaria que entrasse em contato comigo para explicar melhor, eu quero poder mandar mensagens de cobrança em determinado dia para meus clientes com vencimentos diferentes.
 
 # Como automatizar esse processo?
-- Em qual versão de uso do whatsapp o bot atuará? 
+- Em qual versão de uso do whatsapp o bot atuará?
+  
 R: (VERSÃO WEB)
 
 - Quais tecnologias preciso para resolver essa demanda?
   Descrição dos processos a automatizar e tecnologia:
+  
   R: A linguagem de programação será o python versão 3.12.1
   
     TECLADO    ---> PYAUTOGUI
+  
     ACESSO AO SITE  ---> WEBBROWSER
+  
     AUTOMATIZAR DIGITAÇÃO  ---> LINK WHATSAPP PERSONALIZADO
+  
     AUTOMATIZAR LEITURAS DE DADOS DE UMA PLANILHA --->OPENPYXL
     
     ## Passo a passo 
