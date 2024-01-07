@@ -4,7 +4,7 @@
 # Entendendo o problema.
 ## Demanda do cliente:
 
-- Preciso automatizar mensagens para meus clientes e gostaria de saber valores, e gostaria que entrasse em contato comigo para explicar melhor, eu quero poder mandar mensagens de cobrança em determinado dia para meus clientes com vencimentos diferentes.
+- Preciso automatizar mensagens para meus clientes e gostaria de saber valores, e gostaria que entrasse em contato comigo para me explicar melhor. Eu quero poder mandar mensagens de cobrança em determinado dia para meus clientes com vencimentos diferentes.
 
 # Como automatizar esse processo?
 - Em qual versão de uso do whatsapp o bot atuará?
