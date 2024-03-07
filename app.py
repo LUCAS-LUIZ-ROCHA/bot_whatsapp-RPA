@@ -1,5 +1,3 @@
-"""" Preciso automatizar mensagens para meus clientes e gostaria de saber valores, e gostaria que entrasse em contato comigo para explicar melhor, eu quero poder mandar mensagens de cobrança em determinado dia para meus clientes com vencimentos diferentes.
-"""
 import openpyxl
 from urllib.parse import quote
 import webbrowser
